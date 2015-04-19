@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+App_Data/
+bin/
+Web.config
+
 # Folder config file
 Desktop.ini
 
