@@ -3,7 +3,6 @@ var gulp = require('gulp');
 
 // Include Our Plugins
 var jshint = require('gulp-jshint');
-var jscs = require('gulp-jscs');
 var cssmin = require('gulp-cssmin');
 var compass = require('gulp-compass');
 var concat = require('gulp-concat');
@@ -72,7 +71,7 @@ gulp.task('spritesmith', function() {
 // start server
 gulp.task('browser-sync', function() {
     browserSync({
-        proxy: "localhost"
+        proxy: "http://localhost:24239/"
     });
 });
 

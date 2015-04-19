@@ -5,6 +5,7 @@ ehthumbs.db
 App_Data/
 bin/
 Web.config
+node_modules/
 
 # Folder config file
 Desktop.ini
