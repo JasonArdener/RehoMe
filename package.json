@@ -1,0 +1,22 @@
+{
+  "name": "Template",
+  "version": "1.2.0",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-clean": "^0.3.1",
+    "gulp-compass": "*",
+    "gulp-concat": "*",
+    "gulp-cssmin": "*",
+    "gulp-jscs": "*",
+    "gulp-jshint": "*",
+    "gulp-rename": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-spritesmith": "0.0.2",
+    "gulp-strip-comments": "^1.0.1",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "gulp.spritesmith": "^3.3.1"
+  },
+  "author": "Jason Ardener"
+}
